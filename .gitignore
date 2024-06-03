@@ -1,0 +1,8 @@
+companies_faiss_index_old/*
+my_env/*
+.env
+config.ini
+*.xlsx
+*.sql
+*.ipynb
+*.png
